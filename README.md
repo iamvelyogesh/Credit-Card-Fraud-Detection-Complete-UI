@@ -58,13 +58,14 @@ Our main Home Page which has been developed using React Js
 ![Screenshot (1272)](https://user-images.githubusercontent.com/113898735/234447343-83887926-cf77-4d12-a9ce-e972c2185843.png)
 
 
-![Screenshot (1275)](https://user-images.githubusercontent.com/113898735/234447358-bf655b71-c1de-4cd0-ab14-92653eb27037.png)
+![Screenshot 2023-04-26 073610](https://user-images.githubusercontent.com/113898735/234447803-98837817-2e1b-4b57-94e5-07e7f3091667.png)
 
 
-![Screenshot (1276)](https://user-images.githubusercontent.com/113898735/234447364-6367a2c4-3683-4b43-b0de-c6a814067872.png)
+![Screenshot 2023-04-26 073621](https://user-images.githubusercontent.com/113898735/234447808-21d3a873-d832-4f62-ae36-08786373389c.png)
 
 
-![Screenshot (1277)](https://user-images.githubusercontent.com/113898735/234447370-257d473a-d27e-4a49-9f3d-b6d1169f49ad.png)
+![Screenshot 2023-04-26 073638](https://user-images.githubusercontent.com/113898735/234447813-6d3c5584-f766-460a-98d5-82357f53e98e.png)
+
 
 
 ![Screenshot (1278)](https://user-images.githubusercontent.com/113898735/234447380-46835e68-3b9c-498e-a9c5-a57744b58176.png)
