@@ -78,3 +78,19 @@ Our main Home Page which has been developed using React Js
 
 
 ![Screenshot (1281)](https://user-images.githubusercontent.com/113898735/234447402-89a33dbf-608b-49c7-b1e3-89068b249b6f.png)
+
+
+![Screenshot (1284)](https://user-images.githubusercontent.com/113898735/234448128-7e0a51ea-06e3-4f32-95a2-ed7e793f3678.png)
+
+
+![Screenshot (1283)](https://user-images.githubusercontent.com/113898735/234448134-9ce0938c-7171-4879-a1b6-c4a525060b79.png)
+
+
+
+
+#Running 
+
+npm install
+npm run build
+npm start
+
