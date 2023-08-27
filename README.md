@@ -1,50 +1,7 @@
-# HacktoFuture
-
-#Introduction
-We are glad and honoured to participate in the event HacktoFuture.This Project is under the Theme of Finance and our problem statement is credit card transaction fraud detection.
-It involves detecting  fraudulent transactions that results in financial losses for both the credit card issuer and the cardholder.
-By identifying and preventing fraudulent transactions, financial institutions can protect their customers' funds and maintain the trust of their customers. This helps to ensure the overall stability of the financial system, which is essential for a healthy economy. Thus, credit card transaction fraud detection plays a critical role in the finance industry by reducing financial losses and maintaining the integrity of the financial system.
-
-
-
-#Development
-1.ML Credit card
-To train a machine learning model for anomaly detection using Random Forest, we preprocess the dataset by cleaning and transforming the data into a suitable format. The next step involves feature engineering, where we select the relevant input features and transform them into a suitable form for the algorithm. Random Forest can handle both categorical and numerical data, so we need to ensure that the features are appropriately encoded to avoid any biases.
-
-After preprocessing and feature engineering, we split the dataset into training and testing sets to evaluate the performance of the model. We then train the Random Forest algorithm on the training set and optimize the hyperparameters, such as the number of trees and the maximum depth of the trees.
-
-Once we have trained the model, we evaluate its performance on the testing set by computing metrics such as precision, recall, and F1-score. These metrics give us an idea of how well the model is detecting anomalous transactions.
-
-If the performance is not satisfactory, we can further tune the hyperparameters and adjust the feature selection to improve the model's performance. Once the model is trained and optimized, we can use it to detect anomalies in new credit card transactions and prevent financial losses due to fraud.
-
-In summary, training a machine learning model for anomaly detection using Random Forest involves preprocessing and transforming the data, feature engineering, hyperparameter tuning, and evaluation of the model's performance. By following these steps, we can develop an effective model that can detect anomalous transactions and help prevent financial losses due to fraud.
-
-
-
-2.Url Checker
-We had developed URL checker using React JS without using an API, we can use regular expressions to check whether the URL is safe or malicious. We can create a function that takes in the URL as input and uses regular expressions to extract the domain name and other components of the URL.
-
-Once we have extracted the domain name, we can compare it to a list of known malicious domains. We can create a list of malicious domains that we have gathered from various sources, such as blacklists and threat intelligence feeds. If the domain name matches a known malicious domain, we can flag the URL as unsafe.
-
-In addition to checking the domain name, we can also check the length of the URL, the presence of special characters, and the use of certain keywords. These features can be indicative of malicious intent, and we can use regular expressions to detect them.
-
-Once we have performed all the checks, we can display the result to the user in the form of a message or a notification. If the URL is safe, we can display a green message indicating that it is safe to visit.
-
-
-
-3.credit score calculator
-
-The inputs  include factors such as the individual's name , individual's age , city ,income ,loan amount , loan type. These factors are weighted differently depending on the credit scoring model being used, so we need to take this into account when building the calculator.
-
-Once we have defined the inputs, we can create a form component in React that allows the user to input their relevant information, such as their credit card balances, payment history, and length of credit history. We can use form validation to ensure that the input is in the correct format.
-
-Next, we need to calculate the credit score based on the inputs provided by the user. We can use a predefined credit scoring model, such as the FICO score or VantageScore, to calculate the score. We can create a function that takes in the input values and applies the relevant weights to calculate the score.
-
-Once we have calculated the credit score, we can display it to the user in the form of a message or a visual indicator, such as a progress bar. We can also provide some context on what the credit score means and how it compares to other scores.
-
-
-4.ESPIAL
-Our main Home Page which has been developed using React Js
+# Credit-Card-Fraud-Detection
+As we are moving on with this modern world there arises a lots of threats with credit cards.
+Many fraudlent transaction take place using credit cards,
+Here is a working solution of finding if a trasaction is fraudlent or not using Random Forest algo and Decision Tree alogo with a help of a sample dataset from kaggle.
 
 
 
